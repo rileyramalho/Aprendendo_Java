@@ -14,5 +14,7 @@ Formação Alura - Java e Orientação a Objetos.
 
 Livros:
 Java - Guia do Programador: Atualizado Para Java 16 - 4ª edição (Peter Jandl Junior).
+
 Java: como programar (Harvey Deitel).
+
 A Linguagem de Programação Java (Ken Arnold e outros).
