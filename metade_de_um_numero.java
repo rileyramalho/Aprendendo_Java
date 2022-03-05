@@ -5,12 +5,17 @@ public class metade_de_um_numero {
     Scanner entrada = new Scanner(System.in);
         
       System.out.println("Digite um número:");
-      int numero = entrada.nextInt();
+      float numero = entrada.nextFloat();
 
       if (numero > 20){
         float metade = numero/2;  
         System.out.println(metade);
     
+      }
+        
+      else{
+        System.out.println("Número menor ou igual a 20, tente novamente.");
+
       }
 
         entrada.close();
