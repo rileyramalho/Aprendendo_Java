@@ -7,10 +7,12 @@ Vem comigo acompanhar toda a minha evolução durante as minhas aulas e pesquisa
 
 Sinta-se livre para me enviar sugestões e dicas de como melhorar cada vez mais.
 
+
 Referências:
 
 Curso on-line:
 Formação Alura - Java e Orientação a Objetos.
+
 
 Livros:
 Java - Guia do Programador: Atualizado Para Java 16 - 4ª edição (Peter Jandl Junior).
