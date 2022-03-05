@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class metade_de_um_numero {
     public static void main(String[] args) throws Exception {
     Scanner entrada = new Scanner(System.in);
         
