@@ -50,3 +50,59 @@ Java - Programmer's Guide: Updated to Java 16 - 4th edition (Peter Jandl Junior)
 Java: How to Program (Harvey Deitel).
 
 The Java Programming Language (Ken Arnold and others).
+
+-----------------------------------------------------------------------------------------------------------------
+
+Español:
+
+# Aprendizaje_Java
+
+¡Hola, soy Riley Ramalho! Estoy estudiando Informática y actualmente estoy en 4to. semestre.
+
+Estoy aprendiendo un nuevo idioma en la universidad y el idioma actual es Java.
+Acompáñame a seguir toda mi evolución durante mis clases e investigaciones en Java.
+
+Siéntase libre de enviarme sugerencias y consejos sobre cómo mejorar cada vez más.
+
+Estoy usando Visual Studio Code como IDE para programar y escribir mi código.
+
+Referencias:
+
+Curso por Internet:
+Alura Training - Java y Orientación a Objetos.
+
+
+Libros:
+Java - Guía del programador: actualizado a Java 16 - 4.ª edición (Peter Jandl Junior).
+
+Java: Cómo programar (Harvey Deitel).
+
+El lenguaje de programación Java (Ken Arnold y otros).
+
+-----------------------------------------------------------------------------------------------------------------
+
+Deutsch:
+
+# Lernen_Java
+
+Hallo, ich bin Riley Ramalho! Ich studiere Informatik und bin derzeit im 4. Semester.
+
+Ich lerne eine neue Sprache an der Universität und die aktuelle Sprache ist Java.
+Begleiten Sie mich, um meine gesamte Entwicklung während meines Unterrichts und meiner Forschung in Java zu verfolgen.
+
+Senden Sie mir gerne Vorschläge und Tipps, wie ich mich immer weiter verbessern kann.
+
+Ich verwende Visual Studio Code als IDE, um meinen Code zu programmieren und zu schreiben.
+
+Verweise:
+
+Online Kurs:
+Alura Training - Java und Objektorientierung.
+
+
+Bücher:
+Java – Programmierhandbuch: Aktualisiert auf Java 16 – 4. Ausgabe (Peter Jandl Junior).
+
+Java: Programmieren (Harvey Deitel).
+
+Die Programmiersprache Java (Ken Arnold und andere).
