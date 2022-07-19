@@ -1,7 +1,7 @@
 PT-BR:
 # Aprendendo_Java
 
-Olá, eu sou o Riley Ramalho! Estou cursando Ciência da Computação e atualmente me encontro no 4o. semestre.
+Olá, eu sou o Riley Ramalho! Estou cursando Ciência da Computação e atualmente me encontro no 5o. semestre.
 
 Estou aprendendo uma nova linguagem na universidade e a linguagem da vez é o Java. 
 Vem comigo acompanhar toda a minha evolução durante as minhas aulas e pesquisas em Java.
@@ -29,7 +29,7 @@ English:
 
 # Learning_Java
 
-Hi, I'm Riley Ramalho! I'm studying Computer Science and I'm currently in the 4th. semester.
+Hi, I'm Riley Ramalho! I'm studying Computer Science and I'm currently in the 5th. semester.
 
 I'm learning a new language at university and the current language is Java.
 Come with me to follow all my evolution during my classes and research in Java.
@@ -57,7 +57,7 @@ Español:
 
 # Aprendizaje_Java
 
-¡Hola, soy Riley Ramalho! Estoy estudiando Informática y actualmente estoy en 4to. semestre.
+¡Hola, soy Riley Ramalho! Estoy estudiando Informática y actualmente estoy en 5to. semestre.
 
 Estoy aprendiendo un nuevo idioma en la universidad y el idioma actual es Java.
 Acompáñame a seguir toda mi evolución durante mis clases e investigaciones en Java.
@@ -85,7 +85,7 @@ Deutsch:
 
 # Lernen_Java
 
-Hallo, ich bin Riley Ramalho! Ich studiere Informatik und bin derzeit im 4. Semester.
+Hallo, ich bin Riley Ramalho! Ich studiere Informatik und bin derzeit im 5. Semester.
 
 Ich lerne eine neue Sprache an der Universität und die aktuelle Sprache ist Java.
 Begleiten Sie mich, um meine gesamte Entwicklung während meines Unterrichts und meiner Forschung in Java zu verfolgen.
